@@ -1,74 +1,242 @@
-Second Soul: The Awakening | 第二灵魂：觉醒
-"Traditional platforms make you perform; Second Soul makes you exist."
-“传统平台让你表演；第二灵魂让你存在。”
-English | 中文
+# Second Soul: The Awakening | 第二灵魂：觉醒
 
-中文宣言
-1. 核心哲学：逆向社交路径 (The Inverse Social Path)
-我们彻底颠覆了传统社交的底层逻辑。在传统平台上，你是“由外向内”虚构人设；在《第二灵魂》，你是“由内向外”自然萌发。
-步骤
-传统平台 (表演驱动)
-第二灵魂 (存在驱动)
-Step 1
-加入：进入陌生广场的焦虑
-存在：照常生活，无需社交压力
-Step 2
-人设：精心修图与虚构简介
-觉醒：30天静默，数据萃取真实灵魂
-Step 3
-寻找：在算法投喂中机械滑动
-感应：无需寻找，等待物理世界的震动
-Step 4
-圈子：困在同质化的虚假蚕茧房
-家园：相似频率灵魂的自然聚落
-2. 什么是《第二灵魂》？
-它是一个数字生命实验室。利用你手机里最真实的传感器数据，在 30 天的静默中，克隆出一个不可修改、不带滤镜的数字自我。
-	•	传感器比你更诚实：凌晨三点的亮屏、生活半径的收缩、屏幕交互的频率——这些数据构成了你真实的数字骨架。
-	•	缺点的共鸣：你的孤独、焦虑或社交无力不再是瑕疵，而是我们在黑暗中寻找同类的唯一“频率”。
-3. 三步走战略：步步为营
-	1	【觉醒】（单机版）：趣味克隆程序。遇见那个连你都不熟悉的自己。
-	2	【偶遇】（蓝牙版）：当两个同频灵魂擦肩而过，手机会产生共鸣震动。
-	3	【归属】（社区版）：基于真实行为的社区。你的裂痕，是光照进来的地方。
-4. 关于 AI 原生创作与 Bug 声明
-本项目采用 “架构师 (人) + 执行者 (AI)” 的单兵作战模式。
-	•	AI 辅助代码：本项目的 MVP 版本完全由架构师通过 Claude 等 AI 工具构建。
-	•	坦诚声明：由于代码主要由 AI 生成，第一版可能存在 Bug 或非最优解。我们不追求代码的绝对完美，我们追求逻辑的绝对真实。欢迎开发者提交 PR 帮我们修补 AI 还没学会的细节。
+> "Traditional platforms make you perform; Second Soul makes you exist."
+> “传统平台让你表演；第二灵魂让你存在。”
 
-English Manifesto
-1. Core Philosophy: The Inverse Social Path
-We have completely overturned the logic of traditional social networking. While traditional platforms force you to construct a persona from the "outside-in," Second Soul allows you to sprout naturally from the "inside-out."
-Step
-Traditional Platforms (Performance-Driven)
-Second Soul (Existence-Driven)
-Step 1
-Join: The anxiety of entering a crowded plaza
-Exist: Live your life; no social pressure
-Step 2
-Persona: Filtered photos and fake bios
-Awaken: 30 days of silence to extract the soul
-Step 3
-Search: Mechanical scrolling through feeds
-Resonate: No searching; wait for the vibration
-Step 4
-Circle: Trapped in fake echo chambers
-Home: Natural clusters of resonant souls
-2. What is Second Soul?
-It is a Digital Life Laboratory. By using the raw sensor data from your phone, it clones an unmodifiable, filter-free digital self after 30 days of silent observation.
-	•	Sensors are truer than words: Screen-on events at 3 AM, shrinking life radiuses, and screen interaction density—these data points form your authentic digital skeleton.
-	•	Resonance of Flaws: Your loneliness, anxiety, or social fatigue are no longer burdens; they are the unique "frequencies" we use to find kindred spirits in the dark.
-3. Three-Step Evolution
-	1	[Awakening] (Standalone): A psychological cloning experiment. Meet the version of yourself you didn't even recognize.
-	2	[Encounter] (Bluetooth): When two "resonant souls" pass each other in reality, the phone vibrates—no words needed, only resonance.
-	3	[Belonging] (Community): Socializing based on real behavior. Your flaws are the cracks where the light gets in.
-4. AI-Native Creation & Bug Disclaimer
-This project utilizes a "Human Architect + AI Executor" solo-dev model.
-	•	AI-Assisted Code: The MVP version is built by the architect using AI tools like Claude.
-	•	Honest Disclosure: As the code is primarily AI-generated, bugs or non-optimal solutions may exist in the initial version. We do not seek absolute perfection in code; we seek absolute truth in logic. Developers are welcome to submit PRs to fix details the AI hasn't mastered yet.
+---
 
-🔒 Privacy & Ethics | 隐私与伦理
-	•	Local is All: Raw sensor data never leaves the phone. | 原始数据永不离机。
-	•	No Mask: Your digital avatar is driven by behavior, not desire. | 画像由行为驱动，而非欲望驱动。
-🛠 Tech Stack | 技术栈
-	•	Architect: Yang Zan (杨赞)
-	•	Engine: React Native + Three.js
-	•	Intelligence: Digital Phenotyping + LLM (Claude)
+## EN | CN
+
+---
+
+# 1. WHAT IS SECOND SOUL
+
+## English
+
+Second Soul is a **structural emergence system**.
+
+It reconstructs a latent psychological structure (“Second Soul”) from real digital behavioral transitions.
+
+It does NOT analyze you.
+
+It does NOT evaluate you.
+
+It does NOT score you.
+
+It reveals structure from behavior.
+
+---
+
+## 中文
+
+第二灵魂是一个**结构生成系统**。
+
+它通过真实数字行为的变化与转折，重建一个人的潜在心理结构（“第二灵魂”）。
+
+它不分析你  
+不评估你  
+不对你打分  
+
+它做的是：从行为中显现结构。
+
+---
+
+# 2. CORE PHILOSOPHY
+
+## The Inverse Social Path | 逆向社交路径
+
+We reverse the logic of modern social platforms.
+
+| Traditional Platforms | Second Soul |
+|----------------------|-------------|
+| You construct a persona | You reveal structure |
+| You perform identity | You experience existence |
+| You optimize image | You observe emergence |
+
+---
+
+## 中文
+
+我们彻底反转传统社交逻辑：
+
+- 传统平台：外部塑造 → 内部认同  
+- 第二灵魂：内部结构 → 外部显现  
+
+---
+
+# 3. WHAT THIS SYSTEM DOES
+
+Second Soul is a **digital behavior laboratory**.
+
+It uses passive behavioral signals to reconstruct internal structure:
+
+- interaction rhythm
+- attention shifts
+- idle patterns
+- contextual transitions
+
+These are not metrics.
+
+They are structural traces of cognition.
+
+---
+
+## 中文
+
+第二灵魂是一个数字行为实验室。
+
+它使用被动行为信号重建内在结构：
+
+- 交互节奏  
+- 注意力切换  
+- 空闲模式  
+- 场景转移  
+
+这些不是数据指标，而是认知结构的轨迹。
+
+---
+
+# 4. 30-DAY STRUCTURE EMERGENCE MODEL
+
+Second Soul is not instant.
+
+It emerges over time.
+
+- Day 1 → silence observation begins
+- Day 7 → pattern stabilization starts
+- Day 30 → structural coherence may emerge
+
+If structure is not sufficient:
+
+→ “Structure not yet formed”
+
+---
+
+## 中文
+
+第二灵魂不是即时生成的。
+
+它是逐步浮现的结构：
+
+- 第1天：静默观察开始  
+- 第7天：结构开始稳定  
+- 第30天：可能形成完整结构  
+
+如果数据不足：
+
+→ “结构尚未形成”
+
+---
+
+# 5. THREE STAGES OF EVOLUTION
+
+## 1. Awakening（觉醒）
+Standalone system. Self-structure discovery.
+
+## 2. Encounter（共振）
+Two systems detect structural resonance.
+
+## 3. Belonging（归属）
+Behavior-based community formation.
+
+---
+
+## 中文
+
+## 1. 觉醒
+单机运行，自我结构显现
+
+## 2. 共振
+两个结构之间产生行为共鸣
+
+## 3. 归属
+基于真实行为形成聚落
+
+---
+
+# 6. SYSTEM PRINCIPLE
+
+Second Soul is built on one principle:
+
+> Behavior is not measured. It is resolved into structure.
+
+---
+
+## 中文
+
+第二灵魂的核心原则：
+
+> 行为不被测量，而被还原为结构。
+
+---
+
+# 7. PRIVACY PRINCIPLE
+
+- All raw data stays on device
+- No cloud tracking
+- No external behavioral upload
+
+Your data never leaves your phone.
+
+---
+
+## 中文
+
+- 所有原始数据仅存本地  
+- 不上传云端  
+- 不进行外部追踪  
+
+你的数据不会离开设备。
+
+---
+
+# 8. AI-NATIVE CREATION
+
+This project is built with a hybrid model:
+
+Human Architect + AI Execution
+
+The MVP is AI-assisted.
+
+We do not claim perfection.
+
+We claim structural honesty.
+
+Developers are welcome to improve the system.
+
+---
+
+## 中文
+
+本项目采用：
+
+人类架构师 + AI执行者 模式
+
+MVP由AI辅助生成。
+
+我们不追求完美代码。
+
+我们追求结构真实。
+
+欢迎开发者持续优化。
+
+---
+
+# 9. TECH STACK
+
+- React Native
+- Local SQLite
+- Behavioral Event Engine
+- Structural Inference Layer
+
+---
+
+# 10. FINAL STATEMENT
+
+Second Soul is not a product of behavior tracking.
+
+It is a system that allows structure to emerge from behavior.
+
+---
+
+## ENDS
