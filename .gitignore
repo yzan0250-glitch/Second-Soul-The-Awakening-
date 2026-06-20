@@ -39,3 +39,30 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# User behavioral data (never commit!)
+# Privacy first - user data stays local
+*.soul
+user_data/
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Misc
+.prettierignore
+build/
+.cache/
+tmp/
