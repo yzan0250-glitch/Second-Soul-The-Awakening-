@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation
+    url: https://github.com/yzan0250-glitch/Second-Soul-The-Awakening-/wiki
+    about: Learn more about Second Soul
+  - name: 💬 Discussions
+    url: https://github.com/yzan0250-glitch/Second-Soul-The-Awakening-/discussions
+    about: Ask questions and share ideas
+  - name: 🔒 Security Issue
+    url: mailto:yzan0250@gmail.com
+    about: Report security vulnerabilities privately
